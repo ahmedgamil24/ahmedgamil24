@@ -67,18 +67,18 @@ Feel free to reach out for any Freelance or Junior opportunities.
 
 #### Tools & Project Management
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="40" height="40"/>
 </p>
 
----
+<!-- ---
 
 #### Editor / IDE I ♥
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="40" height="40"/>
-</p>
+</p> -->
 
 ---
 
