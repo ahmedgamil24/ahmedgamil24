@@ -3,9 +3,9 @@
 <h3 align="center">
 <font face="Arial">
 <a href="https://www.linkedin.com/in/ahmedgamil1/" target="_blank" rel="noreferrer">Ahmed Gamil</a> 
-is a passionate Frontend & Full-Stack JavaScript Developer from Egypt 🇪🇬, 
+is a passionate Web Developer and ITI Graduate from Egypt 🇪🇬, 
 focused on building modern, scalable, and user-friendly web applications.
-Feel free to reach out for any Freelance or Junior opportunities.
+Feel free to reach out for any Freelance or Full-Time opportunities.
 </font>
 </h3>
 
