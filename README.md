@@ -48,19 +48,13 @@ Feel free to reach out for any Freelance or Junior opportunities.
 
 ---
 
-#### Backend Stack
+#### Backend & Database Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" width="40" height="40"/>
-</p>
-
----
-
-#### Database Stack
-<p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" height="40"/>  
 </p>
 
 ---
