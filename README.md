@@ -87,4 +87,4 @@ Feel free to reach out for any Freelance or Junior opportunities.
 
 - 💬 Ask me about **Frontend Development, React, Angular, Node.js**
 - 📫 How to reach me **[ahmedgamil2027@gmail.com](mailto:ahmedgamil2027@gmail.com)**
-- ⚡ Fun fact: I built multiple full-stack projects during my ITI journey
+<!-- - ⚡ Fun fact: I built multiple full-stack projects during my ITI journey -->
