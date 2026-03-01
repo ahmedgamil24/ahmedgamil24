@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ahmed Gamil</font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Ahmed Gamil 👋</font></h1>
 <h3 align="center">
 <font face="Arial">
 <a href="https://www.linkedin.com/in/ahmedgamil1/" target="_blank" rel="noreferrer">Ahmed Gamil</a> 
