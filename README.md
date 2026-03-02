@@ -28,7 +28,7 @@ Feel free to reach out for any Freelance or Full-Time opportunities.
 
 #### Programming Language Stack
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40"/>
