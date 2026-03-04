@@ -113,5 +113,5 @@ Feel free to reach out for any Freelance or Full-Time opportunities.
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
 - 💬 Ask me about **Frontend Development, React, Angular, Node.js**
-- 📫 How to reach me **[ahmedgamil2027@gmail.com](mailto:ahmedgamil2027@gmail.com)** | 01020424848
+- 📫 How to reach me **[ahmedgamil2027@gmail.com](mailto:ahmedgamil2027@gmail.com)**
 <!-- - ⚡ Fun fact: I built multiple full-stack projects during my ITI journey -->
