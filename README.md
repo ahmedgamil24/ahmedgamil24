@@ -38,7 +38,7 @@ Feel free to reach out for any Freelance or Full-Time opportunities.
 
 #### Frontend Stack
 
-<table width="100%">
+<table width="100%">  
 <tr>
 <td align="left">
 
