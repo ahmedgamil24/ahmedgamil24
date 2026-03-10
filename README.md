@@ -65,7 +65,7 @@ Feel free to reach out for any Freelance or Full-Time opportunities.
 
 #### Backend & Database Stack
 
-<table width="100%">
+<table width="100%"> 
 <tr>
 <td align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" height="40"/>
